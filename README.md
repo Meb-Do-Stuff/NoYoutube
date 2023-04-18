@@ -5,7 +5,7 @@ Now, you will not be distracted anymore, and just check the notification bell, t
 
 For the moment, it's only on Firefox, because Chrome is just bad for uploading extensions :/
 
-<a href="https://addons.mozilla.org/firefox/addon/youtube-is-no-more"><b>Firefox</b></a>
+<a href="https://addons.mozilla.org/firefox/addon/youtube-is-no-more"><b>Firefox</b></a><br>
 <a href="https://addons.opera.com/fr/extensions/details/youtube-is-no-more/"><b>Opera</b></a>
 
 <h4>If you have any suggestion / bug report, please tell me on discord, <b>Meb#2325</b></h4>
