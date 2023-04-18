@@ -3,8 +3,6 @@ This extension will remvove you the part of the main page of Youtube, where it s
 Now, you will not be distracted anymore, and just check the notification bell, to see if a new <b>good</b> video is released, that you never <b>seen</b> before.
 (It also remove shorts button)
 
-For the moment, it's only on Firefox, because Chrome is just bad for uploading extensions :/
-
 <a href="https://addons.mozilla.org/firefox/addon/youtube-is-no-more"><b>Firefox</b></a><br>
 <a href="https://addons.opera.com/fr/extensions/details/youtube-is-no-more/"><b>Opera</b></a>
 
